@@ -2,7 +2,7 @@ body {
     font-family: 'Times New Roman', Times, serif, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #a86e6e;
+    background-color: #bf5700;
 }
 
 #header {
@@ -29,7 +29,7 @@ body {
 }
 
 a {
-    color: #0000FF;
+    color: #0000ff;
     text-decoration: none;
 }
 
