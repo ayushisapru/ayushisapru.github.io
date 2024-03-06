@@ -2,11 +2,11 @@ body {
     font-family: 'Times New Roman', Times, serif, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #bf5700;
+    background-color: #403f3e;
 }
 
 #header {
-    background: #333;
+    background: #bf56009c;
     color: #fff;
     padding-top: 20px;
     padding-bottom: 20px;
